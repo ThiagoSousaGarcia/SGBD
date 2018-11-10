@@ -4,4 +4,5 @@ Algoritmos desenvolvidos para a disciplina de Sistemas de Gerenciamento de Banco
 Sistemas de Gerenciamento de Banco de Dados - 2017.1
 
 Thiago de Sousa Garcia - 374204
+
 Gabriel Gomes Melo - 374178
